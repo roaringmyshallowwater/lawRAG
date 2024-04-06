@@ -27,4 +27,5 @@ langchain-openai
 faiss-cpu
 langchain~=0.1.14
 requests~=2.31.0
-streamlit
+streamlit~=1.32.0
+pandas~=2.2.1
