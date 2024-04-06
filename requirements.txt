@@ -22,7 +22,6 @@ opencv-python
 pikepdf
 pypdf
 weaviate-client
-sentencpiece
 langchain-openai
 faiss-cpu
 langchain~=0.1.14
